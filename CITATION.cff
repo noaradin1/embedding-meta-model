@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Radin"
+  given-names: "Noa"
+title: "Embedding-Based Meta Model for Cross-Project Defect Prediction"
+version: 1.0
+url: "https://github.com/noaradin1/embedding-meta-model"
